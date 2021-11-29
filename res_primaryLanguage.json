@@ -89,10 +89,10 @@
     "experience": [
       {
         "company": "\nNational Telecommunication Institute\n",
-        "title": "trained",
+        "title": "Training",
         "years": "11.2020 - 12.2020",
         "mainTech": [
-          "Angular"
+          "Node JS and Angular"
         ],
         "technologies": [
           "REST API",
