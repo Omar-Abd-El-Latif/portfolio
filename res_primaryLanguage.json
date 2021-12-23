@@ -84,6 +84,23 @@
             "name": "Bootstrap 5"
           }
         ]
+      },
+      {
+        "title": "Movies Applications",
+        "startDate": "2021",
+        "description": "Angular web application Using dbMovies  Api \nI learn how to use reactive form module , authentication with jwt , use rxjs to subscribe in navbar , and using routing gard ,\n you can login with {Email:admin123 password:123}",
+        "images": [
+          "images/portfolio/angular_project/angular_project.png"
+
+        ],
+        "url": "https://angular-movies-website.web.app/home",
+
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          }
+        ]
       }
     ],
     "experience": [
